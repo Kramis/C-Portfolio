@@ -1,0 +1,10 @@
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\bin\Debug\Kraig Massee Lab 2.exe.config
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\bin\Debug\Kraig Massee Lab 2.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\bin\Debug\Kraig Massee Lab 2.pdb
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig Massee Lab 2.csprojAssemblyReference.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig_Massee_Lab_2.pictureBoxForm.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig_Massee_Lab_2.Properties.Resources.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig Massee Lab 2.csproj.GenerateResource.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig Massee Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig Massee Lab 2.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 2\Kraig Massee Lab 2\Kraig Massee Lab 2\obj\Debug\Kraig Massee Lab 2.pdb
