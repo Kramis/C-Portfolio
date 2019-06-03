@@ -1,0 +1,10 @@
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\bin\Debug\Kraig Massee Lab 6.exe.config
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\bin\Debug\Kraig Massee Lab 6.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\bin\Debug\Kraig Massee Lab 6.pdb
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig Massee Lab 6.csprojAssemblyReference.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig_Massee_Lab_6.electoralCollegeForm.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig_Massee_Lab_6.Properties.Resources.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig Massee Lab 6.csproj.GenerateResource.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig Massee Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig Massee Lab 6.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 6\Kraig Massee Lab 6\obj\Debug\Kraig Massee Lab 6.pdb
