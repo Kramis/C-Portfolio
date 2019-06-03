@@ -1,0 +1,10 @@
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\bin\Debug\Kraig Massee Lab 5.exe.config
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\bin\Debug\Kraig Massee Lab 5.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\bin\Debug\Kraig Massee Lab 5.pdb
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig Massee Lab 5.csprojAssemblyReference.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig_Massee_Lab_5.pizzaShopForm.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig_Massee_Lab_5.Properties.Resources.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig Massee Lab 5.csproj.GenerateResource.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig Massee Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig Massee Lab 5.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 5\Kraig Massee Lab 5\Kraig Massee Lab 5\obj\Debug\Kraig Massee Lab 5.pdb
