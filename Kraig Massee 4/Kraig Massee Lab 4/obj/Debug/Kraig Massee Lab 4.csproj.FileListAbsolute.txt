@@ -1,0 +1,10 @@
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\bin\Debug\Kraig Massee Lab 4.exe.config
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\bin\Debug\Kraig Massee Lab 4.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\bin\Debug\Kraig Massee Lab 4.pdb
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig Massee Lab 4.csprojAssemblyReference.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig_Massee_Lab_4.stateForm.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig_Massee_Lab_4.Properties.Resources.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig Massee Lab 4.csproj.GenerateResource.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig Massee Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig Massee Lab 4.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 4\Kraig Massee Lab 4\obj\Debug\Kraig Massee Lab 4.pdb
