@@ -1,0 +1,10 @@
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\bin\Debug\Kraig Massee Lab 8.exe.config
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\bin\Debug\Kraig Massee Lab 8.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\bin\Debug\Kraig Massee Lab 8.pdb
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig Massee Lab 8.csprojAssemblyReference.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig_Massee_Lab_8.bookStoreForm.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig_Massee_Lab_8.Properties.Resources.resources
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig Massee Lab 8.csproj.GenerateResource.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig Massee Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig Massee Lab 8.exe
+C:\Users\krami\Documents\PCC school folders\CIS 133N\Kraig Massee Lab 8\Kraig Massee Lab 8\obj\Debug\Kraig Massee Lab 8.pdb
